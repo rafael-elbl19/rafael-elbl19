@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Me chamo<a href="www.linkedin.com/in/josé-rafael-elbl-3a48b81b4/"><i>Rafael Elbl</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="utfpr.edu.br"><i>UTFPR - PG</i></a> e atualmente trabalho na empresa Costa Teixeira Logistics</a>
+  <h1 align="center">Oi Tudo bem? Me chamo<i> Rafael Elbl</i></a> 😃️</h1>
+  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <i>UTFPR - PG</i></a> e atualmente trabalho na empresa Costa Teixeira Logistics</a>
   
   </a><br>
   <p align="center">Seja bem vindo ao meu repositório pessoal, espero que possa superar suas expectativas 😉️</h2>

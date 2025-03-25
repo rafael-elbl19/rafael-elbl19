@@ -1,71 +1,46 @@
-# Sobre mim
+<h2 align="center">Sobre mim</h2>
 
-**`Estudante de Desenvolvimento de Sistemas`**
+###
 
-→ Me chamo Jose Rafael Lichinski Elbl, tenho 22 anos e atualmente moro em Passos - MG
+<p align="left">→ Me chamo Jose Rafael Lichinski Elbl, tenho 22 anos e atualmente moro em Passos - MG<br><br>→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período<br><br>→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa<br><br>→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos<br><br>→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada primeiramente para o back-end<br><br>📩 Para contato envie um e-mail para: rafael.elbl@hotmail.com ou para minhas redes sociais:</p>
 
-→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período
+###
 
-→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa
+<div align="center">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-rafael-lichinski-elbl-150375289/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@feydev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/elbl_rafael/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos
+###
 
-→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada primeiramente para o back-end
+<h2 align="center">Minhas tecnologias</h2>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+</div>
 
-### Minhas tecnologias
+###
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<h2 align="center">Estatísticas</h2>
 
-<br>
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafael-elbl19&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-elbl19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rafael-elbl19&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-elbl19&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+###

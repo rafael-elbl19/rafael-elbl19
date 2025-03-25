@@ -2,13 +2,19 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Jose Rafael Lichinski Elbl e tenho 22 anos
-Moro em Passos - MG 
-Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período
-Cursei durante dois anos Análise e Desenvolvimento de Sistemas na UTFPR câmpus Ponta Grossa
-Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa
-Estudo Java e tenho conhecimento em HTML5 e CSS3
-Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos
+→ Me chamo Jose Rafael Lichinski Elbl e tenho 22 anos
+
+→ Moro em Passos - MG 
+
+→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período
+
+→ Cursei durante dois anos Análise e Desenvolvimento de Sistemas na UTFPR câmpus Ponta Grossa
+
+→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa
+
+→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos
+
+→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada primeiramente para o back-end
 
 
 ### Minhas tecnologias

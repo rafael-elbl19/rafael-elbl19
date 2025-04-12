@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">→ Me chamo Jose Rafael Lichinski Elbl, tenho 22 anos e atualmente moro em Passos - MG<br><br>→ Estudante de húngaro | Magyar diák<br><br>→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período<br><br>→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa<br><br>→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos<br><br>→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada para o back-end<br><br>📩 Para contato envie um e-mail para: rafael.elbl@hotmail.com ou para minhas redes sociais:</p>
+<p align="left">→ Me chamo Jose Rafael Lichinski Elbl, tenho 22 anos e atualmente moro em Passos - MG<br><br>→ Estudante de húngaro | Magyarul diák<br><br>→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período<br><br>→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa<br><br>→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos<br><br>→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada para o back-end<br><br>📩 Para contato envie um e-mail para: rafael.elbl@hotmail.com ou para minhas redes sociais:</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">→ Me chamo Jose Rafael Lichinski Elbl, tenho 22 anos e atualmente moro em Passos - MG<br><br>→ Estudante de húngaro | Magyarul diák<br><br>→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período<br><br>→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa<br><br>→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos<br><br>→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada para o back-end<br><br>📩 Para contato envie um e-mail para: rafael.elbl@hotmail.com ou para minhas redes sociais:</p>
+<p align="left">→ Me chamo Jose Rafael Lichinski Elbl, tenho 22 anos e atualmente moro em Passos - MG<br><br>→ Atualmente curso Análise e Desenvolvimento de Sistemas na PUC PR e estou no primeiro período<br><br>→ Me comunico em inglês com facilidade e tento manter todas as minhas tecnologias na lingua inglesa<br><br>→ Trabalhei com manutenção de computadores, Lean Six Sigma e melhoria contínua aplicada a softwares corporativos<br><br>→ Atualmente estou estudando Java e tenho interesse em seguir para tecnologias como Spring Boot e Hibernate, numa linha voltada primeiramente para o back-end<br><br>📩 Para contato envie um e-mail para: rafael.elbl@hotmail.com ou para minhas redes sociais:</p>
 
 ###
 
@@ -39,7 +39,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-elbl19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-elbl19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-elbl19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="145" alt="languages graph"  />
 </div>
 
 ###
